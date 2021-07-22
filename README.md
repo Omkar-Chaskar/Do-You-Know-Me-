@@ -1,6 +1,6 @@
 # Do-You-Know-Me-
 Assignment 1 from Neog camp level Zero
-# Lets play whith our friends 
+# Lets play with our friends 
  How much they know me..
  This is Simple Node.js CLI project. 
  Practice project for beginner to learn and enjoy there learning with friends.
