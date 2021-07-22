@@ -16,4 +16,4 @@ Assignment 1 from Neog camp level Zero
  
  Just try it your self and you will Love it.
  
- https://replit.com/@31AOmkarA/Do-You-Know-Me?embed=1&output=1#index.js
+ https://replit.com/@omkarchaskar/Do-You-Know-Me?embed=1&output=1#index.js
